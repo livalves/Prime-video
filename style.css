@@ -20,3 +20,49 @@
 #banner{
     width: 100%;
 }
+
+main div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.seta{
+    width: 30px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+
+.card img{
+    width: 160px;
+}
+
+.card figcaption{
+    text-align: center;
+}
+
+footer{
+    background-color: #1E1E1E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+p{
+    color: white;
+    padding-left: 20px;
+}
+
+nav{
+    padding: 10px;
+}
+
+nav img{
+    width: 40px;
+    padding-left: 10px;
+}
