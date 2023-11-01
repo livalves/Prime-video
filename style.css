@@ -11,10 +11,11 @@
     align-items: center;
 }
 
-#menu a{
+#menu a{    
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
     padding: 2%;
     color: white;
-    text-decoration: none;
 }
 
 #banner{
@@ -47,6 +48,7 @@
 }
 
 .card figcaption{
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     text-align: center;
     padding-top: 10px;
@@ -65,14 +67,13 @@ footer{
 }
 
 p{
+    font-family: 'Actor', sans-serif;
     color: white;
-    
 }
 
 #redes{
     display: flex;
     align-items: center;
-    
 }
 
 #redes img{
